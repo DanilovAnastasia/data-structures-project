@@ -27,3 +27,4 @@ class LinkedList:
 
         ll_string += ' None'
         return ll_string
+
